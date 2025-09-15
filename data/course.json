@@ -1,0 +1,42 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "dfd91cfc-8cc2-4fe5-94e6-863063355f84"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fe9e3812-abd9-40ba-bba4-80a83ae26596",
+    "website": "art-craft-science"
+  },
+  "course_title": "Art, Craft, Science",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course examines how people learn, practice, and evaluate traditional and contemporary craft techniques. Social science theories of design, embodiment, apprenticeship learning, skill, labor, expertise, and tacit knowledge are used to explore distinctions among art, craft, and science. It also discusses the commoditization of craft into market goods, collectible art, and tourism industries. Ethnographic and historical case studies include textiles, Shaker furniture, glassblowing, quilting, cheesemaking, industrial design, home and professional cooking, factory and laboratory work, CAD/CAM. Demonstrations, optional field trips, and/or hands-on craft projects may be included.",
+  "department_numbers": [
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.074J",
+  "primary_course_number": "21A.501J",
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Readings"
+  ],
+  "site_uid": "f14793cb-801e-4ad6-ba6c-0798dc11dd07",
+  "site_short_id": "21a.501j-fall-2024",
+  "site_url_path": "courses/21a-501j-art-craft-science-fall-2024"
+}
