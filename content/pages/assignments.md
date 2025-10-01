@@ -15,11 +15,11 @@ Use archaeological strategies and measures of your choosing to illustrate an art
 
 **Assignment 3: Write up on the MIT Museum Visit (800 words, due Session 11)**
 
-Your account of the [MIT Museum](https://mitmuseum.mit.edu/) visit and write up of the art, science and craft underpinning a display there.   What was your impression of the [Optiker](https://mitmuseum.mit.edu/exhibitions/optiker) exhibition?  In the display you selected (could be *Optiker* or any other display at the museum), what drew you to it; what did the display or displays communicate to you specifically? Did the selected display provoke you to think about topics you otherwise would not have considered--if so, in what ways? What is your impression of the overall message conveyed by the MIT Museum's exhibitions and accompanying narratives?
+Your account of the {{% resource_link "30600e70-51d8-49c7-8afe-916775dc6aef" "MIT Museum" %}} visit and write up of the art, science and craft underpinning a display there.   What was your impression of the {{% resource_link "0b31a4fd-a845-4ad6-8b7e-4b735e8f3c6e" "Optiker" %}} exhibition?  In the display you selected (could be *Optiker* or any other display at the museum), what drew you to it; what did the display or displays communicate to you specifically? Did the selected display provoke you to think about topics you otherwise would not have considered--if so, in what ways? What is your impression of the overall message conveyed by the MIT Museum's exhibitions and accompanying narratives?
 
 **Assignment 4 (800 words, due Session 12)**
 
-This 800-word assignment is a reflection on your visit to the [Harvard Museum of Natural History](https://www.hmnh.harvard.edu/) and/or [Peabody Museum of Archaeology and Ethnology](https://peabody.harvard.edu/).  For it, I'll expect you to write up a narrative account of your visit and a reflection on some of its exhibitions in relation to our readings, specifically, Haraway (Teddy Bear Patriarchy) and Rieppel (dinosaurs).  
+This 800-word assignment is a reflection on your visit to the {{% resource_link "3729a967-7b53-407c-b3dc-0863aab46fa4" "Harvard Museum of Natural History" %}} and/or {{% resource_link "af427a0b-3478-4f0e-b22c-9bd409e7b434" "Peabody Museum of Archaeology and Ethnology" %}}.  For it, I'll expect you to write up a narrative account of your visit and a reflection on some of its exhibitions in relation to our readings, specifically, Haraway (Teddy Bear Patriarchy) and Rieppel (dinosaurs).  
 
 Think on the issues raised in those two articles--what museological content reveals about its makers, the craft of exhibition, the potential hidden labors, the objectivity/subjectivity of the science, the underlying narratives embedded in the layout, content, etc.
 
